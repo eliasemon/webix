@@ -2,10 +2,6 @@
     "name": "webiner-p104",
     "version": "0.1.0",
     "private": true,
-    "engines": {
-        "npm": ">=9.0.0 <=9.6.6",
-        "node": ">=18.0.0 <=18.15.0"
-    },
     "scripts": {
         "workspace:setup": "yarn install --frozen-lockfile && yarn prepare",
         "dev": "next dev",
