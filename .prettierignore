@@ -1,0 +1,19 @@
+/.cache
+.tmp
+
+# Ignore all node_modules
+**/node_modules/**
+
+# Ignore all dist
+**/dist/**
+
+# Ignore all build
+**/build/**
+.next
+
+*.log
+*.production
+.github
+.eslintrc.cjs
+.prettierrc.cjs
+.vscode
